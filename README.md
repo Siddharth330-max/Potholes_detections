@@ -24,8 +24,10 @@ This project uses the **YOLOv8 Nano** model to detect and locate potholes in roa
 ---
 
 ##  Project Structure
-a.Potholes_obj_detection.ipynb -: Contains the code regarding object detection 
+a.Potholes_obj_detection.ipynb -: Contains the code regarding object detection
+
 b.data.yaml -: Dataset configuration for YOLOv8
+
 c.README.md 
 
 ##  How to Run the Project (Google Colab)
