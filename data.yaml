@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['pot-pot - v1 2024-07-10 6-48am']
+
+roboflow:
+  workspace: ai-training-session
+  project: kuwait-potholes
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ai-training-session/kuwait-potholes/dataset/1
